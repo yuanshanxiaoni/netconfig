@@ -12,7 +12,7 @@
 #          BUGS:  ---
 #         NOTES:  ---
 #        AUTHOR:  poorNigga
-#       COMPANY:  DDnetwork(CD)
+#       COMPANY:  
 #       CREATED:  2011年04月08日 15时50分43秒 CST
 #      REVISION:  1
 #===============================================================================
