@@ -11,7 +11,7 @@
 #  REQUIREMENTS:  ---
 #          BUGS:  ---
 #         NOTES:  ---
-#        AUTHOR: YOUR NAME (), 
+#        AUTHOR: poornigga
 #       COMPANY: 
 #       CREATED: 2011年04月08日 15时57分07秒 CST
 #      REVISION:  ---
