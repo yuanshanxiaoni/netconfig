@@ -8,7 +8,7 @@
 #   DESCRIPTION:  配置网络环境
 # 
 #       OPTIONS:  /ip/route/dns
-#  REQUIREMENTS:  ---
+#  REQUIREMENTS:  centos
 #          BUGS:  ---
 #         NOTES:  ---
 #        AUTHOR:  poorNigga
