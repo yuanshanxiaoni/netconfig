@@ -5,7 +5,7 @@
 # 
 #         USAGE:  ./ddnetcfg.sh 
 # 
-#   DESCRIPTION:  配置网络环境
+#   DESCRIPTION:  配置网络
 # 
 #       OPTIONS:  /ip/route/dns
 #  REQUIREMENTS:  centos
