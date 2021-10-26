@@ -29,6 +29,11 @@ while read line; do
     used=`echo "scale=2; $used + $line" | bc`
 done < <(df -k | awk 'NF==1{printf $0;next}NF{print $0}' | awk 'NR>1{print $3}')
 
+# < <( ) is a Process Substitution
+# $() is a command substitution
+# <<< is a here-string
+
+
 usedG=`echo "scale=2; $used / (1024 * 1024)" | bc`
 
 #echo $usedG G
